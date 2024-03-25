@@ -2,3 +2,20 @@ name: PluginStaff
 main: me.thomasrba.Main
 version: 1.0
 api-version: 1.20
+commands:
+  gmc:
+    description: Vous permet de passer en mode créatif.
+    permission: PluginStaff.gmc
+    permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
+  gms:
+    description: Vous permet de passer en mode survie.
+    permission: PluginStaff.gms
+    permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
+  kick:
+    description: Vous permet de kick un joueur.
+    permission: PluginStaff.kick
+    permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
+  ban:
+    description: Vous permet de bannir un joueur.
+    permission: PluginStaff.ban
+    permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
