@@ -10,9 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d788c15-2c58-4291-b634-18f6f91d87a5" name="Changes" comment="Start Project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/CommandStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/Gmc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/Gms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/Kick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/thomasrba/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/CommandStaff.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +55,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.thomasrba.commandStaff" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711292142520</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Start Project">
+      <option name="closed" value="true" />
+      <created>1711326764879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711326764879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Start Project">
+      <option name="closed" value="true" />
+      <created>1711326841224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711326841224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

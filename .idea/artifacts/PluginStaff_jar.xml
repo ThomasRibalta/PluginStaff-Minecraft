@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PluginStaff:jar">
+    <output-path>$PROJECT_DIR$/../Serveur localhost/plugins</output-path>
+    <root id="archive" name="PluginStaff.jar">
+      <element id="module-output" name="PluginStaff" />
+    </root>
+  </artifact>
+</component>

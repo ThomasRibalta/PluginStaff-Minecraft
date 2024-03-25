@@ -15,7 +15,3 @@ commands:
     description: Vous permet de kick un joueur.
     permission: PluginStaff.kick
     permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
-  ban:
-    description: Vous permet de bannir un joueur.
-    permission: PluginStaff.ban
-    permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
