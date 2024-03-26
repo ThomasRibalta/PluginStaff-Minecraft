@@ -1,9 +1,9 @@
 package me.thomasrba;
 
 import me.thomasrba.commandStaff.*;
-import me.thomasrba.listerners.JoinEvent;
-import me.thomasrba.listerners.LeaveEvent;
-import me.thomasrba.listerners.WalkEvent;
+import me.thomasrba.listeners.JoinEvent;
+import me.thomasrba.listeners.LeaveEvent;
+import me.thomasrba.listeners.WalkEvent;
 import me.thomasrba.utils.Playerstate;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;

@@ -1,4 +1,4 @@
-package me.thomasrba.listerners;
+package me.thomasrba.listeners;
 
 import me.thomasrba.Main;
 import org.bukkit.event.EventHandler;
