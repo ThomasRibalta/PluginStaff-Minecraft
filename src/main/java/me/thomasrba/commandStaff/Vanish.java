@@ -26,7 +26,7 @@ public class Vanish implements CommandExecutor {
             return false;
         }
         if (!((strings.length == 1) || (strings.length == 0))){
-            sender.sendMessage("§9§lPluginStaff §c/gmc 'PSUEDO'.");
+            sender.sendMessage("§9§lPluginStaff §c/vanish 'PSUEDO'.");
             return false;
         }
         if (strings.length == 0) {

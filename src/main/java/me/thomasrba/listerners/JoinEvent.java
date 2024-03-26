@@ -17,7 +17,6 @@ public class JoinEvent implements Listener {
 
     @EventHandler
     public void PlayerJoin(PlayerJoinEvent e){
-        Bukkit.getServer().broadcastMessage("+ 1 (" + e.getPlayer().getUniqueId() + ")");
         main.playerStates.put(e.getPlayer().getUniqueId(), new Playerstate());
         for (Player p: Bukkit.getServer().getOnlinePlayers()){
             if (main.playerStates.get(p.getUniqueId()).vanish){

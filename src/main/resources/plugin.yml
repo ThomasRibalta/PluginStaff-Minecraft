@@ -19,3 +19,15 @@ commands:
     description: Vous permet de vous rendre invisible.
     permission: PluginStaff.vanish
     permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
+  freeze:
+    description: Vous permet de figer un joueur.
+    permission: PluginStaff.freeze
+    permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
+  kill:
+    description: Vous permet de tuer un joueur.
+    permission: PluginStaff.kill
+    permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
+  fly:
+    description: Vous permet de voler.
+    permission: PluginStaff.fly
+    permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.

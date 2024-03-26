@@ -16,7 +16,6 @@ public class LeaveEvent implements Listener {
     @EventHandler
     public void PlayerQuit(PlayerQuitEvent e)
     {
-        Bukkit.getServer().broadcastMessage("- 1 (" + e.getPlayer().getUniqueId() + ")");
-        main.playerStates.remove(e.getPlayer().getUniqueId());
+        //main.playerStates.remove(e.getPlayer().getUniqueId());
     }
 }
