@@ -31,3 +31,7 @@ commands:
     description: Vous permet de voler.
     permission: PluginStaff.fly
     permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.
+  invsee:
+    description: Vous permet d'ouvrir l'inventaire d'un joueur.
+    permission: PluginStaff.invsee
+    permission-message: §9§lPluginStaff §cVous n'avez pas la permission de faire cela.

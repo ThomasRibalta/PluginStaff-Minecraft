@@ -9,16 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d788c15-2c58-4291-b634-18f6f91d87a5" name="Changes" comment="Ajout du vanish">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/Freeze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/Kill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/listerners/WalkEvent.java" afterDir="false" />
+    <list default="true" id="6d788c15-2c58-4291-b634-18f6f91d87a5" name="Changes" comment="rename file">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/Invsee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/thomasrba/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/Vanish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/commandStaff/Vanish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/thomasrba/listerners/JoinEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/listerners/JoinEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/thomasrba/listerners/LeaveEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/thomasrba/listerners/LeaveEvent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +55,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.thomasrba" />
       <recent name="me.thomasrba.commandStaff" />
       <recent name="me.thomasrba.listerners" />
     </key>
@@ -128,13 +124,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711455750162</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ajout de freeze, fly, kill">
+      <option name="closed" value="true" />
+      <created>1711458605877</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711458605877</updated>
+    </task>
+    <task id="LOCAL-00008" summary="rename file">
+      <option name="closed" value="true" />
+      <created>1711458716073</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711458716073</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start Project" />
     <MESSAGE value="Re-organisation des commandes" />
     <MESSAGE value="Ajout du vanish" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout du vanish" />
+    <MESSAGE value="Ajout de freeze, fly, kill" />
+    <MESSAGE value="rename file" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename file" />
   </component>
 </project>

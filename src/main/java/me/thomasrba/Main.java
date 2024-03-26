@@ -26,6 +26,7 @@ public class Main extends JavaPlugin {
         Objects.requireNonNull(getCommand("kill")).setExecutor(new Kill());
         Objects.requireNonNull(getCommand("vanish")).setExecutor(new Vanish(this));
         Objects.requireNonNull(getCommand("freeze")).setExecutor(new Freeze(this));
+        Objects.requireNonNull(getCommand("invsee")).setExecutor(new Invsee());
         Bukkit.getServer().getPluginManager().registerEvents(new JoinEvent(this), this);
         Bukkit.getServer().getPluginManager().registerEvents(new WalkEvent(this), this);
         Bukkit.getServer().getPluginManager().registerEvents(new LeaveEvent(this), this);
