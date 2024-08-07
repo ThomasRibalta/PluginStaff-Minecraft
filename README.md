@@ -1,4 +1,4 @@
-# Minecraft Staff Plugin - README
+# Minecraft Staff Plugin 
 
 ## Description
 This Minecraft plugin has been developed to provide a set of useful commands for server staff members. It allows managing various aspects of the game to ensure a fair and secure experience for all players.
